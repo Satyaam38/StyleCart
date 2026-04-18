@@ -1,0 +1,40 @@
+# ── Python ───────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.so
+
+# ── Virtual Environment ─────────────────
+venv/
+env/
+.venv/
+.env/
+
+# ── Environment variables ───────────────
+.env
+
+# ── Jupyter Notebook checkpoints ───────
+.ipynb_checkpoints/
+
+# ── Streamlit cache ────────────────────
+.streamlit/
+
+# ── OS files ───────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Logs ───────────────────────────────
+*.log
+
+# ── ChromaDB (if persisted later) ─────
+chroma_db/
+
+# ── VS Code ────────────────────────────
+.vscode/
+
+# ── Build / dist ───────────────────────
+build/
+dist/
+*.egg-info/
