@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+
+google-generativeai
+langchain
+langgraph
+
+sentence-transformers
+chromadb
+
+datasets
+ragas
