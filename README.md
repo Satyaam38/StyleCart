@@ -195,7 +195,7 @@ This project demonstrates:
 
 ## 👩‍💻 Author
 
-**Shreyoshi Ghosh**
+**Satyam Patel**
 
 ---
 
